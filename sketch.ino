@@ -1,4 +1,5 @@
 // Sketch to take picture on button press
+// Open Source Code under MIT License. Created by Ryan Davis.
 #include <Bridge.h>
 #include <Process.h>
 
