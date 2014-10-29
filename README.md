@@ -18,4 +18,4 @@ fswebcam
 ssh in and do: opkg install fswebcam
 
 Links:
-Wiring Diagram .PNG: http://www.bayimg.com/iacEGaAGi
+Wiring Diagram .PNG: http://bayimg.com/KACepaAgi
