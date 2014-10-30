@@ -20,4 +20,4 @@ ssh in and do: opkg install fswebcam
 Links:
 Wiring Diagram .PNG: http://bayimg.com/KACepaAgi
 
-Donate Bitcoin: 184w7x9qheBcn52rDn4KkiYm7wcJoc3J4E
+
